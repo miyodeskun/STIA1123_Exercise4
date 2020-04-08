@@ -61,5 +61,6 @@ class QuestionOne {
 	
 ```
 # Question 2
+	Draw a UML class diagram for Staff class
 
   
