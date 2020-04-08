@@ -1,6 +1,7 @@
 # STIA1123_Exercise4
 # Question 1
     What will be the output from the following code?
+```java
     class QuestionOne {
 	private int count;
 	
@@ -13,7 +14,7 @@
 	public int getCount() {
 		return count;
 	}
-    } 
+} 
     public class Q1Main {
 	  public static void main (String []arg) {
 		QuestionOne q1;
