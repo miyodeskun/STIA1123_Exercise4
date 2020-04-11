@@ -64,5 +64,6 @@ class QuestionOne {
 	Draw a UML class diagram for Staff class
 https://github.com/miyodeskun/STIA1123_Exercise4/blob/master/E4.2.PNG
 
-
+# Question 4
+https://github.com/miyodeskun/STIA1123_Exercise4/blob/master/E4.4.PNG
   
