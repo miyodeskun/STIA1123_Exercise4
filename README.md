@@ -62,7 +62,7 @@ class QuestionOne {
 ```
 # Question 2
 	Draw a UML class diagram for Staff class
-!https://github.com/miyodeskun/STIA1123_Exercise4/blob/master/E4.2.PNG
+https://github.com/miyodeskun/STIA1123_Exercise4/blob/master/E4.2.PNG
 
 
   
